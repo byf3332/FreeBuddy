@@ -1,5 +1,5 @@
 class OtterConst {
-  static const String name = 'yyyydsss';
+  static const String name = 'HUAWEI FreeBuds 4i';
 
   @Deprecated("This seems to not work... use [btDevNameRegex] instead")
   static final btMacRegex = RegExp(r'60:AA:..:..:..:7E', caseSensitive: false);
