@@ -6,5 +6,5 @@ class OtterConst {
 
   // Copied straight from decompiled app
   static final btDevNameRegex =
-      RegExp(r'^(?=(HUAWEI FreeBuds 4i))', caseSensitive: true);
+      RegExp(r'^(?=(yyyydsss))', caseSensitive: true);
 }
