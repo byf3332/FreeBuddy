@@ -1,5 +1,13 @@
 # Changelog
 
+# 0.1.5 (todo)
+
+- More Material3-ish look:
+  - Colors from wallpaper on Android 12
+- Better layout in landscape
+- Move all headphone settings to own page - clearer home page
+  - It's kinda empty now, so I hope to fill it with something soon 🙈
+
 ## 0.1.4 (2023-04-02)
 
 - Remove sleep mode because noone knows what it's for 🙈
