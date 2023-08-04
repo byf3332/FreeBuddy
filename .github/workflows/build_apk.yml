@@ -25,7 +25,7 @@ jobs:
           flutter-version: ${{ env.flutter_version }}
           channel: ${{ env.flutter_channel }}
       - name: Build apk
-        run: flutter build apk --target-platform android-arm64
+        run: flutter build apk --target-platform android-arm
       - name: Rename apk
         # Clean branch name: https://stackoverflow.com/a/58034787
         run: mv ./build/app/outputs/flutter-apk/app-release.apk ./freebuddy-nightly.apk
